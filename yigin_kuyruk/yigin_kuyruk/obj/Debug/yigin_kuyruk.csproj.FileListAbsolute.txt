@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\obj\Debug\yigin_kuyruk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\obj\Debug\yigin_kuyruk.Form1.resources
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\obj\Debug\yigin_kuyruk.Properties.Resources.resources
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\obj\Debug\yigin_kuyruk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\obj\Debug\yigin_kuyruk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\bin\Debug\yigin_kuyruk.exe.config
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\bin\Debug\yigin_kuyruk.exe
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\bin\Debug\yigin_kuyruk.pdb
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\obj\Debug\yigin_kuyruk.exe
+C:\Users\User\Desktop\LİSANS DERSLER\2021-2022\VERİ YAPILARI\veri yapıları örnek uygulamlar\yigin_kuyruk\yigin_kuyruk\obj\Debug\yigin_kuyruk.pdb
